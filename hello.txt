@@ -2,6 +2,5 @@ java
 kotlin
 
 bas keda
-bas keda
 
 msh bas keda
