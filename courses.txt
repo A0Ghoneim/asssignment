@@ -1,0 +1,10 @@
+Java
+Testing
+QA
+SQL
+DB Fundamentals
+Access
+MY SQL
+OOP Design
+OOP Basics
+VCS
